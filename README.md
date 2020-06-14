@@ -1,4 +1,4 @@
-#Codecademy project Maze explorer
+# Codecademy project Maze explorer
 
 Codecademy Project Tower of Hanoi (Guided Project)
 
